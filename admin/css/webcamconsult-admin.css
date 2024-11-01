@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#webcamconsult-admin-iframe {
+    width:100%;
+    height:100%;
+}

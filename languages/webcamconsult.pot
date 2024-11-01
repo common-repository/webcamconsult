@@ -1,0 +1,41 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: webcamconsult 1.1\n"
+"POT-Creation-Date: 2019-02-20 15:51+0100\n"
+"PO-Revision-Date: 2019-02-20 15:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/webcamconsult-admin-display.php:24
+msgid "Naar dashboard"
+msgstr ""
+
+#: admin/partials/webcamconsult-admin-display.php:26
+msgid "Naar spreekkamer"
+msgstr ""
+
+#: includes/webcamconsult-widget.php:14
+msgid "Webcamconsult widget"
+msgstr ""
+
+#: includes/webcamconsult-widget.php:15
+msgid "Plaatst een Webcamconsult widget"
+msgstr ""
+
+#: includes/webcamconsult-widget.php:40
+msgid "niets ingesteld"
+msgstr ""
+
+#: includes/webcamconsult-widget.php:54
+msgid "Nieuwe titel"
+msgstr ""
